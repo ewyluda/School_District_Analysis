@@ -22,7 +22,7 @@ The average math and reading scores for the disctrict went down slightly from th
 #### Math and reading scores by grade
 Math and reading scores by grade after removing Thomas High School 9th graders:
 [math scores by grade challenge](/images/math_scores_by_grade_challenge.png)
-[reading scores by grade challenge](/images/reading_scores_by_grade_challenge.png)
+ | [reading scores by grade challenge](/images/reading_scores_by_grade_challenge.png)
 
 
 #### Scores by school spending
