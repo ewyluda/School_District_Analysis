@@ -9,12 +9,13 @@ The purpose of this project was to remove the math and reading scores for Thomas
 
 #### How is the district summary affected?
 The average math and reading scores for the disctrict went down slightly from the removal of Thomas High School 9th Grade.
+[new district summary](/images/district_summary_challenge.png)
 
 #### How is the school summary affected?
 [new school summary](/images/per_school_summary_challenge.png)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+Thomas High School was originally in the top 5 schools sorted by overall passing % for reading and math scores, after removing the 9th graders Thomas High School is no longer in the top 5.
 
 ### How does replacing the ninth-grade scores affect the following:
 
@@ -38,3 +39,4 @@ Scores by school type after removing Thaoms High School 9th Graders:
 [schoool type challenge](/images/type_summary.png)
 
 ## Summary
+Major changes after removing Thomas High School 9th Graders include the overall district average being lowered, the ranking of thomas high school among it's peers decreasing, though the budget spent per student remains unchanged.
